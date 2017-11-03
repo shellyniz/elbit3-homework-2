@@ -1,0 +1,24 @@
+{
+  "name": "map",
+  "version": "1.0.0",
+  "description": "map homwork 2",
+  "main": "script.js",
+  "dependencies": {
+    "@types/leaflet": "^0.7.31",
+    "leaflet": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shellyniz/elbit3-homework-2.git"
+  },
+  "author": "shellyniz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shellyniz/elbit3-homework-2/issues"
+  },
+  "homepage": "https://github.com/shellyniz/elbit3-homework-2#readme"
+}
